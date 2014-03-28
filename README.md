@@ -1,4 +1,4 @@
-allchat
+AllChat
 =======
 
-An open source IM Server.
+AllChat is a new generation of IM System.
